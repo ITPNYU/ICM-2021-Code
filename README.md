@@ -14,11 +14,11 @@ The following is an overview of how we will be spending class time over the next
 ## Section Info
 * 01 [John-Henry](sections/01_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-John-Henry)
 * 02 [Luisa](sections/02_Luisa.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Luisa)
-* 03 [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-03)
+* 03 [Mimi](sections/03_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-03)
 * 04 [Allison](sections/04_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Allison)
-* 05 [Mimi Y.](sections/05_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-05)
-* 06 [Lisa](sections/06_Lisa.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Lisa)
-* 07 [Ellen](sections/07_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Ellen)
+* 05 [Mimi](sections/05_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-05)
+* 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Lisa)
+* 07 [Lisa](sections/07_Lisa.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Ellen)
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
