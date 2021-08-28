@@ -17,8 +17,8 @@ The following is an overview of how we will be spending class time over the next
 * 03 [Mimi](sections/03_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-03)
 * 04 [Allison](sections/04_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Allison)
 * 05 [Mimi](sections/05_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-05)
-* 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Lisa)
-* 07 [Lisa](sections/07_Lisa.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Ellen)
+* 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Ellen)
+* 07 [Lisa](sections/07_Lisa.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Lisa)
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
