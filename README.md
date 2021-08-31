@@ -12,19 +12,19 @@ The following is an overview of how we will be spending class time over the next
 * 7 -- [The DOM](weeks/07_dom.md) and Final Project Presentations
 
 ## Section Info
-* 01 [John-Henry](sections/01_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-John-Henry)
-* 02 [Luisa](sections/02_Luisa.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Luisa)
-* 03 [Mimi](sections/03_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-03)
-* 04 [Allison](sections/04_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Allison)
-* 05 [Mimi](sections/05_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-05)
-* 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Ellen)
-* 07 [Lisa](sections/07_Lisa.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Lisa)
+* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-03)
+* 02 [John-Henry](sections/02_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-John-Henry)
+* 03 [Allison](sections/03_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Allison)
+* 04 [Mimi](sections/04_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-05)
+* 05 [Luisa](sections/05_Luisa.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Luisa)
+* 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Ellen-06)
+* 07 [Ellen](sections/07_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Ellen-07)
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
 
 ## p5.js
-- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://alpha.editor.p5js.org/).
+- The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://editor.p5js.org/).
 
 ## Extra Help
 - [Research Resident Office Hours](https://itp.nyu.edu/help/in-person-help/office-hours/)

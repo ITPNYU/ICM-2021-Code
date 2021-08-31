@@ -2,7 +2,7 @@
 * Mimi Yin, mimi.yin@nyu.edu
 * Time: Wednesdays 12:10 - 2:40PM EST
 * Location: TBD
-* [Homework Wiki](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Mimi-05)
+* [Homework Wiki](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Mimi-04)
 * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
 ## Dates
