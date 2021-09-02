@@ -2,7 +2,6 @@
 ## book - Code as Creative Medium
   * [Code as Creative Medium](https://www.amazon.com/gp/product/0262542048)
 <!-- https://github.com/CodeAsCreativeMedium/exercises -->
-<!-- > !!@ Add to Inspiration.md?  -->
 
 ## book - Getting Started with p5.js
   * [Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](http://amzn.to/2ckixCW)
