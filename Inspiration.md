@@ -16,13 +16,11 @@
 ### Generative
 * Martin Fuchs and Peter Bichsel, [Written Images](http://writtenimages.net/)
 * [Marius Watz](http://mariuswatz.com/category/works/)
-  !!@ broken
 * [Camille Utterback](http://camilleutterback.com/) (ITP alum)
 * [Toxi](http://toxi.co.uk/)
 * [Casey Reas](http://reas.com)
 * [Matthias Dörfelt](http://www.mokafolio.de/) - see [Weird Faces](http://www.mokafolio.de/works/Weird-Faces) and [Regurgitating](http://www.mokafolio.de/works/Regurgitating)
-* [Deep Dream](http://psychic-vr-lab.com/deepdream/)
-  !!@ Porn warning -> http://deepdream.psychic-vr-lab.com/deepdream/
+* [Deep Dream](http://psychic-vr-lab.com/deepdream/) <!-- service will be shutting down at Aug 31th, 2021 -->
 * [hamoid/aBe Pazos](http://hamoid.com/)
 * [Deep art](https://deepart.io/)
 * [Reza Ali](http://www.syedrezaali.com/)
