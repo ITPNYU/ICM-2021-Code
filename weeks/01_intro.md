@@ -42,7 +42,7 @@
   *  Chapter 1-3 of Getting Started with p5.js book [NYU Library Ebook](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) | [Amazon]((http://amzn.to/2ckixCW) | [Code](https://github.com/lmccart/gswp5.js-code)
 
 ## Additional Viewing / Reading:
-   * [Code as a Creative Medium] | [NYU Library Ebook](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=6454626&query=Code+as+Creative+Medium) | [Amazon](https://www.amazon.com/gp/product/0262542048)
+   * Code as a Creative Medium | [NYU Library Ebook](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=6454626&query=Code+as+Creative+Medium) | [Amazon](https://www.amazon.com/gp/product/0262542048)
    * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
 ### More on p5
    * [All introductory p5.js videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
