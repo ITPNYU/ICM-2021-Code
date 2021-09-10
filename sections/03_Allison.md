@@ -5,7 +5,7 @@
 * Time: Tuesdays 12:20PM-2:50PM EST
 * Location: TBD
 * [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Allison)
-* [Office hours](http://help.itp.nyu.edu/in-person/office-hours/)
+* [Office hours](https://itp.nyu.edu/help/in-person-help/office-hours/)
 
 ## Dates
 
