@@ -39,11 +39,13 @@
   * [p5.js Reference](http://p5js.org/reference) | [p5.js Cheat Sheet](https://bmoren.github.io/p5js-cheat-sheet/)
 
 ## Getting Started with p5.js book
-  *  Chapter 1-3 of Getting Started with p5.js book [NYU Library Ebook](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) | [Amazon]((http://amzn.to/2ckixCW) | [Code](https://github.com/lmccart/gswp5.js-code)
+  *  Chapter 1-3 of Getting Started with p5.js book [NYU Library Ebook](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) | [Amazon](http://amzn.to/2ckixCW) | [Code](https://github.com/lmccart/gswp5.js-code)
 
 ## Additional Viewing / Reading:
    * Code as a Creative Medium | [NYU Library Ebook](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=6454626&query=Code+as+Creative+Medium) | [Amazon](https://www.amazon.com/gp/product/0262542048)
-   * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
+   * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/) 
+     * Suggestion: [Eyeo 2019 - Amon Millner](https://vimeo.com/355843375)
+   * [Remix of the weekly topics](https://github.com/jht1493/ICM-2021-Code-Remix)
 ### More on p5
    * [All introductory p5.js videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
    * [Comparing Processing and p5.js Part 1 video](https://youtu.be/AmlAiKsiy0o), [Comparing Processing and p5.js Part 2 video](https://youtu.be/AsjPJ5AWkDc), [Comparing Processing and p5.js Part 3 video](https://youtu.be/_y8rEHjqzRA)
@@ -55,5 +57,6 @@
    * [p5 playground](http://yining1023.github.io/p5PlayGround/)
 
 ### More on the Internets
+   * [The Machine Stops](https://www.ele.uri.edu/faculty/vetter/Other-stuff/The-Machine-Stops.pdf), by E. M. Forster, November 1909
    * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
    * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee

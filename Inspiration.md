@@ -165,3 +165,8 @@
 ### Other
 * [Telescope Dome Control](http://astro.neutral.org/arduino/how-to-write-arduino-telescope-goto-mount-controller.shtml) - Arduino Motor Control, Computation of Astral Coordinates
 * [This app knows how you feel — from the look on your face](https://youtu.be/o3VwYIazybI)
+* [social turkers: crowdsourced dating](http://socialturkers.com/), Lauren Lee McCarthy
+
+### History
+
+* [genesis of the term "Computational Media" by Michael Mills](https://www.imillsie.com/nyu-itp)
