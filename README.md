@@ -79,8 +79,8 @@ Your health and safety are a priority at NYU. If you experience any health or me
 
 Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations.  Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
 
-Mantras By James
-----------------
+## Mantras By James
+
 - "Practice is the best of all instructors." - computation requires practice
 - "An agreeable companion on a journey is as good as a carriage." - look to your classmates for help too
 - "While we stop to think, we often miss our opportunity." - sometimes you need to take a leap of faith
@@ -88,8 +88,13 @@ Mantras By James
 - "The bow too tensely strung is easily broken." - don't get too stressed out
 - All of these are from Plubius Syrus. (42 B.C.)
 
-Previous Years
---------------
+## 2021 Media
+
+7 Weeks for Code is followed by 7 Weeks of Media.
+
+- [2021-Media](https://github.com/ITPNYU/ICM-2021-Media)
+
+## Previous Years
 - [2020](https://github.com/ITPNYU/ICM-2020-Code/)
 - [2019](https://github.com/ITPNYU/ICM-2019-Code/)
 - [2018](https://github.com/ITPNYU/ICM-2018/)
@@ -104,3 +109,4 @@ Previous Years
 - [2009](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F09)
 - [2008](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F08)
 - [2007](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F07)
+
